@@ -22,7 +22,7 @@ Data Preparation
 1.	Categorical variables were converted into numerical data of 0 or 1 using dummy variables. 
 2.	The dataset was split into training and testing datasets in a ratio of 7:3 
 3.	Data points were standardized to similar scale using Standard scaler for numerical features to avoid bias of some variables in higher scales in the model.
-	 
+
 **Model Building**
 1.	Initial model was created by selecting 15 variables using the RFE technique. 
 2.	Insignificant variables that were identified were removed to optimize the model for better model. VIFs were also checked to see the multicollinearity between the model features. 
