@@ -1,5 +1,6 @@
 # Lead_Score_Case_Study
-The ML Project on Lead Score Case Study
+Prepared and Submitted by Mukul Dutt Bharadwaj and MS Alexander Sooraj on 25 Feb 2024
+DSC59-Aug2023 Batch
 
 **Probelm Statement**
 X Education offers online courses for industry professionals and promotes them on various websites and search engines like Google. Despite attracting many potential customers, only a small percentage end up purchasing courses. X Education aims to increase the conversion rate of potential customers to paying customers. Currently, they convert about 30% of leads into customers by targeting those interested in their courses. However, their lead generation strategies are not very effective in converting leads into customers.
